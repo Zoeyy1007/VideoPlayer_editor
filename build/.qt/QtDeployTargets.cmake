@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_VideoPlayer_FILE /Users/zoeyyang/Desktop/projects/videoPlayer_editor/build/VideoPlayer)
+set(__QT_DEPLOY_TARGET_VideoPlayer_TYPE EXECUTABLE)

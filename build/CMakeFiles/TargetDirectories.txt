@@ -1,0 +1,3 @@
+/Users/zoeyyang/Desktop/projects/videoPlayer_editor/build/CMakeFiles/VideoPlayer.dir
+/Users/zoeyyang/Desktop/projects/videoPlayer_editor/build/CMakeFiles/edit_cache.dir
+/Users/zoeyyang/Desktop/projects/videoPlayer_editor/build/CMakeFiles/rebuild_cache.dir
