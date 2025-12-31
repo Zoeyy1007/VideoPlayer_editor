@@ -1,6 +1,3 @@
-This README is designed to look like a professional C++ project. It highlights the technical stack (CMake/Make) and provides clear, step-by-step instructions for a user (or a recruiter) to run your code.
-
----
 
 # Real-Time Video Processor (OpenCV)
 
